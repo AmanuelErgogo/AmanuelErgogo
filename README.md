@@ -1,5 +1,5 @@
 Hi there 👋  
-I'm **Amanuel** — a Ph.D. student in **Computer Science & Engineering** with a background in **automation, robotics, and electrical & computer engineering**.
+I'm **Amanuel**, a Ph.D. student in **Computer Science & Engineering** with a background in **automation, robotics, and electrical & computer engineering**.
 
 I previously worked as a **Researcher at the Sano Centre for Computational Medicine**, where I spent 2+ years exploring the intersection of **medical imaging** and **robotics**.
 
