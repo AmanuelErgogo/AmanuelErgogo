@@ -1,4 +1,4 @@
-## Hi there 👋
+I am Amanuel, a Ph.D. student in Computer Science and Engineering with a background in automation and robotics. Prior to my Ph.D., I spent over two years working on Medical Imaging and Robotics at the Sano Center for Computational Medicine. My research interests include robot learning, autonomy, shared control, human-agent collaboration, and failure explanation.
 
 <!--
 **AmanuelErgogo/AmanuelErgogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
