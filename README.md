@@ -9,3 +9,10 @@ Research Interests:\
 🤖 Robot Learning & Autonomy\
 🤝 Shared Control & Human-Agent Collaboration\
 🔍 Failure Explanation
+
+Technical Toolkit:\
+  Languages: C++/C, Python, C#, CUDA C++\
+  Robot Learning: PyTorch, Imitation Learning, Reinforcement Learning, VLA, VLM\
+  DevTools: ROS2, OpenCV, Linux, Docker, Slurm\
+  Simulation: IsaacSim | IsaacLab, Newton, Unity\
+  Embedded & Control: STM32, RTOS, MATLAB/Simulink, MPC, PID, Communication Interfaces, Kinematic & Dynamic Control\
