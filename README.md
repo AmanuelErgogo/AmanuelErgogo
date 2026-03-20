@@ -9,7 +9,7 @@ MEng in **Automation & Robotics** | BSc in **Electrical & Computer Engineering**
 ### Research Interests
 - 🤖 Robot Learning & Autonomy
 - 🤝 Shared Control & Human-Agent Collaboration
-- 🔍 Failure Explanation
+- 🔍 Policy Failure Explanation
 
 ### Technical Skills
 - **Languages:** C/C++, Python, C#, CUDA C++
