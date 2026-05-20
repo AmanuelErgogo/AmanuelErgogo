@@ -1,7 +1,8 @@
 Hi there 👋  
 I'm **Amanuel**.
 
-🎓 Ph.D. Student in **Computer Science & Engineering**
+🎓 Ph.D. Student in **Computer Science & Engineering** at USF
+
 MEng in **Automation & Robotics** | BSc in **Electrical & Computer Engineering**
 
 🤖🔬 Previously, I spent 2+ years as a **Researcher at the Sano Centre for Computational Medicine**, working on **medical imaging** and **robotics**.
